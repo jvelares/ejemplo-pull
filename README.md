@@ -1,2 +1,2 @@
-# repo de practica pull
+# repo de practica pull (codigo)
 probar git pull
